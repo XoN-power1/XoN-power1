@@ -1,46 +1,42 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,30:130018,65:7A0019,100:001D50&height=260&section=header&text=XoN-power1&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=ENTER%20THE%20SPIDER%20VERSE&descSize=20&descColor=FF334F&descAlignY=60&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050510,25:16001f,55:be123c,80:003b83,100:050510&text=XoN-power1&fontSize=75&fontColor=ffffff&stroke=ff1744&animation=twinkling&desc=THE%20NEXT%20GENERATION%20DEVELOPER&descSize=17&descAlignY=75"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=500&color=FF244F&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+UNIVERSE;CREATIVE+DEVELOPER;NO+LIMITS.+ONLY+POSSIBILITIES." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=23&pause=700&color=00C8FF&center=true&vCenter=true&width=750&lines=INITIALIZING+SPIDER+CORE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;CREATING+THE+FUTURE+WITH+CODE;SYSTEM+STATUS%3A+ONLINE"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/CLASS-ELITE-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UNIVERSE-SPIDER--VERSE-0033AA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MODE-DEVELOPER-111111?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=XoN-power1&style=for-the-badge&color=dc143c&label=PROFILE+VISITORS"/>
 
 </div>
 
 <br/>
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="65%" valign="top">
 
-## 🕷️ IDENTITY
+## ▌01 — THE IDENTITY
 
-```yaml
-username: XoN-power1
-role: Developer
-universe: Spider Verse
-mission: Build the impossible
-mindset: Never give up
-status: Always evolving
+```bash
+┌──────────────────────────────┐
+│       SYSTEM INFORMATION     │
+├──────────────────────────────┤
+│ USER     : XoN-power1        │
+│ CLASS    : DEVELOPER         │
+│ STATUS   : ONLINE            │
+│ UNIVERSE : SPIDER CORE       │
+│ MISSION  : CREATE THE FUTURE │
+└──────────────────────────────┘
 ```
+
+**I BUILD. I CREATE. I INNOVATE.**
 
 </td>
-<td width="45%" valign="top">
+<td width="35%" align="center" valign="middle">
 
-## ⚡ CURRENT STATUS
-
-```text
-[ SYSTEM ONLINE ]
-[ CODE MODE: ACTIVE ]
-[ CREATIVITY: 100% ]
-[ LIMITS: NONE ]
-```
+<img src="https://skillicons.dev/icons?i=github,vscode,html,css,js&perline=2&theme=dark"/>
 
 </td>
 </tr>
@@ -50,71 +46,53 @@ status: Always evolving
 
 <div align="center">
 
-# 🔴 THE DEVELOPER
+## ▌02 — TECHNOLOGY MATRIX
 
-*Different worlds. Different versions. One mission.*
-
-</div>
-
-## 🧬 ABOUT MYSELF
-
-- 💻 Passionate about programming
-- 🌐 Exploring modern web development
-- ⚡ Building creative digital experiences
-- 🎮 Gaming and technology enthusiast
-- 🚀 Learning something new every day
-
----
-
-## ⚔️ TECHNOLOGY ARSENAL
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,figma&theme=dark&perline=9"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-FF3D00?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FRONTEND-ENGINEERING-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CREATIVE-MIND-005BCA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LEVEL-UP-00BFFF?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB PERFORMANCE
+## ▌03 — GITHUB COMMAND CENTER
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&hide_border=true&bg_color=080B18&title_color=FF244F&icon_color=00BFFF&text_color=FFFFFF&ring_color=FF244F"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&count_private=true&hide_border=true&bg_color=070B18&title_color=FF1744&icon_color=00C8FF&text_color=FFFFFF&rank_icon=github"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=compact&hide_border=true&bg_color=080B18&title_color=FF244F&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=donut&hide_border=true&bg_color=070B18&title_color=00C8FF&text_color=FFFFFF"/>
 
-<br/><br/>
+<br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&hide_border=true&background=080B18&ring=FF244F&fire=00BFFF&currStreakLabel=FF244F&sideLabels=FFFFFF&dates=999999"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&hide_border=true&background=070B18&ring=FF1744&fire=00C8FF&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=8B949E"/>
 
 </div>
 
 ---
 
-## 🕸️ CONTRIBUTION UNIVERSE
+## ▌04 — ACTIVITY SYSTEM
 
 <div align="center">
 
-<img width="95%" src="https://ghchart.rshah.org/ff244f/XoN-power1"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XoN-power1&bg_color=070B18&color=00C8FF&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=SPIDER%20CORE%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## 🚀 MY PROJECTS
+## ▌05 — PROJECT ARCHIVE
 
 <div align="center">
 
 <a href="https://github.com/XoN-power1?tab=repositories">
 
-<img src="https://img.shields.io/badge/ACCESS-MY%20PROJECTS-DC143C?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT_ARCHIVE-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -122,16 +100,14 @@ status: Always evolving
 
 ---
 
-## 🌌 MY PHILOSOPHY
-
 <div align="center">
 
-### "I DON'T FOLLOW THE FUTURE. I BUILD IT."
+## ▌06 — FINAL TRANSMISSION
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&pause=1000&color=FF1744&center=true&vCenter=true&width=600&lines=NO+LIMITS.+NO+FEAR.;BUILD+YOUR+OWN+UNIVERSE.;THE+MISSION+CONTINUES..."/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001D50,50:7A0019,100:050510&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontColor=FFFFFF&fontSize=22&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:003B83,75:BE123C,100:050510&height=160&section=footer"/>
 
-**XoN-power1 © 2026**
+**XoN-power1 · 2026**
 
 </div>
