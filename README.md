@@ -1,42 +1,49 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:050510,25:16001f,55:be123c,80:003b83,100:050510&text=XoN-power1&fontSize=75&fontColor=ffffff&stroke=ff1744&animation=twinkling&desc=THE%20NEXT%20GENERATION%20DEVELOPER&descSize=17&descAlignY=75"/>
+<!-- SPIDER CORE HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=23&pause=700&color=00C8FF&center=true&vCenter=true&width=750&lines=INITIALIZING+SPIDER+CORE...;WELCOME+TO+MY+DIGITAL+UNIVERSE;CREATING+THE+FUTURE+WITH+CODE;SYSTEM+STATUS%3A+ONLINE"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=350&color=0:03030B,20:090D2B,50:8B001F,75:003D83,100:03030B&text=SPIDER%20CORE&fontSize=85&fontColor=FFFFFF&stroke=FF1744&strokeWidth=2&animation=twinkling&desc=XoN-power1%20%7C%20MULTIVERSE%20DEVELOPER&descSize=18&descColor=00C8FF&descAlignY=75"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=1800&pause=600&color=FF1744&center=true&vCenter=true&width=750&lines=ENTER+THE+SPIDER+VERSE;SYSTEM+INITIALIZED;WELCOME+TO+MY+UNIVERSE;THE+WEB+IS+MINE"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=XoN-power1&style=for-the-badge&color=dc143c&label=PROFILE+VISITORS"/>
+<img src="https://img.shields.io/badge/IDENTITY-XoN--power1-111111?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/DIMENSION-2099-8B001F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-003D83?style=for-the-badge"/>
 
 </div>
 
-<br/>
+---
 
-<table width="100%">
+<div align="center">
+
+# 🕸️ WELCOME TO MY MULTIVERSE
+
+`01 / IDENTITY` &nbsp; `02 / TECHNOLOGY` &nbsp; `03 / STATISTICS`
+
+</div>
+
+<table>
 <tr>
-<td width="65%" valign="top">
+<td width="60%" valign="top">
 
-## ▌01 — THE IDENTITY
+## 🔴 THE PERSON BEHIND THE MASK
 
-```bash
-┌──────────────────────────────┐
-│       SYSTEM INFORMATION     │
-├──────────────────────────────┤
-│ USER     : XoN-power1        │
-│ CLASS    : DEVELOPER         │
-│ STATUS   : ONLINE            │
-│ UNIVERSE : SPIDER CORE       │
-│ MISSION  : CREATE THE FUTURE │
-└──────────────────────────────┘
+```yaml
+NAME: XoN-power1
+ROLE: Developer
+UNIVERSE: Spider Core
+MISSION: Build the future
+MINDSET: Think differently
+STATUS: Always evolving
 ```
 
-**I BUILD. I CREATE. I INNOVATE.**
-
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="https://skillicons.dev/icons?i=github,vscode,html,css,js&perline=2&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=github,vscode,html,css,js&theme=dark&perline=2"/>
 
 </td>
 </tr>
@@ -46,53 +53,47 @@
 
 <div align="center">
 
-## ▌02 — TECHNOLOGY MATRIX
+# ⚡ TECHNOLOGY WEAPONRY
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,git,github,vscode,figma&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,git,github,vscode,figma&theme=dark&perline=5"/>
+
+</div>
+
+---
+
+# 🧬 MULTIVERSE STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&hide_border=true&bg_color=050816&title_color=FF1744&icon_color=00C8FF&text_color=FFFFFF&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=donut&hide_border=true&bg_color=050816&title_color=00C8FF&text_color=FFFFFF"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONTEND-ENGINEERING-DC143C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CREATIVE-MIND-005BCA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LEVEL-UP-00BFFF?style=for-the-badge"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&hide_border=true&background=050816&ring=FF1744&fire=00C8FF&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=999999"/>
 
 </div>
 
 ---
 
-## ▌03 — GITHUB COMMAND CENTER
+# 🌌 SPIDER ACTIVITY
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&count_private=true&hide_border=true&bg_color=070B18&title_color=FF1744&icon_color=00C8FF&text_color=FFFFFF&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=donut&hide_border=true&bg_color=070B18&title_color=00C8FF&text_color=FFFFFF"/>
-
-<br/>
-
-<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&hide_border=true&background=070B18&ring=FF1744&fire=00C8FF&currStreakLabel=FF1744&sideLabels=FFFFFF&dates=8B949E"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XoN-power1&bg_color=050816&color=00C8FF&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=MULTIVERSE%20ACTIVITY"/>
 
 </div>
 
 ---
 
-## ▌04 — ACTIVITY SYSTEM
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=XoN-power1&bg_color=070B18&color=00C8FF&line=FF1744&point=FFFFFF&area=true&hide_border=true&custom_title=SPIDER%20CORE%20ACTIVITY"/>
-
-</div>
-
----
-
-## ▌05 — PROJECT ARCHIVE
+# 🚀 PROJECT DIMENSION
 
 <div align="center">
 
 <a href="https://github.com/XoN-power1?tab=repositories">
 
-<img src="https://img.shields.io/badge/OPEN_PROJECT_ARCHIVE-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/ACCESS%20MY%20PROJECTS-FF1744?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
 
@@ -102,12 +103,10 @@
 
 <div align="center">
 
-## ▌06 — FINAL TRANSMISSION
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&pause=1000&color=00C8FF&center=true&vCenter=true&width=650&lines=ONE+PERSON.+INFINITE+POSSIBILITIES.;CREATE+YOUR+OWN+UNIVERSE.;THE+NEXT+CHAPTER+STARTS+NOW."/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=18&pause=1000&color=FF1744&center=true&vCenter=true&width=600&lines=NO+LIMITS.+NO+FEAR.;BUILD+YOUR+OWN+UNIVERSE.;THE+MISSION+CONTINUES..."/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03030B,40:003D83,75:8B001F,100:03030B&height=170&section=footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050510,40:003B83,75:BE123C,100:050510&height=160&section=footer"/>
-
-**XoN-power1 · 2026**
+**XoN-power1 | SPIDER CORE | 2026**
 
 </div>
