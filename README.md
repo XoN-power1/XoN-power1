@@ -1,57 +1,108 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:8B0000,100:FF0000&height=220&section=header&text=XoN-power1&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=DEVELOPER%20%7C%20GAMER%20%7C%20DREAM%20BIG&descAlignY=60&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:050510,30:130018,65:7A0019,100:001D50&height=260&section=header&text=XoN-power1&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=ENTER%20THE%20SPIDER%20VERSE&descSize=20&descColor=FF334F&descAlignY=60&animation=fadeIn"/>
 
-# ⚡ WELCOME TO MY WORLD
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=25&duration=2000&pause=500&color=FF244F&center=true&vCenter=true&width=700&lines=SYSTEM+ONLINE...;WELCOME+TO+MY+UNIVERSE;CREATIVE+DEVELOPER;NO+LIMITS.+ONLY+POSSIBILITIES." />
 
-### `THINK • CODE • CREATE`
+<br/>
 
-*Code today, lead tomorrow.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-XoN--power1-181717?style=for-the-badge&logo=github)](https://github.com/XoN-power1)
-[![Profile](https://img.shields.io/badge/STATUS-LEARNING-red?style=for-the-badge)](https://github.com/XoN-power1)
+<img src="https://img.shields.io/badge/CLASS-ELITE-DC143C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UNIVERSE-SPIDER--VERSE-0033AA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-DEVELOPER-111111?style=for-the-badge"/>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 ABOUT ME
+<table>
+<tr>
+<td width="55%" valign="top">
+
+## 🕷️ IDENTITY
 
 ```yaml
-Name: XoN-power1
-Role: Developer
-Interests:
-  - Web Development
-  - Technology
-  - Gaming
-  - Programming
-Goal: Build something extraordinary
-Motto: Never stop learning.
+username: XoN-power1
+role: Developer
+universe: Spider Verse
+mission: Build the impossible
+mindset: Never give up
+status: Always evolving
 ```
 
-## 🛠️ TECH ARSENAL
+</td>
+<td width="45%" valign="top">
+
+## ⚡ CURRENT STATUS
+
+```text
+[ SYSTEM ONLINE ]
+[ CODE MODE: ACTIVE ]
+[ CREATIVITY: 100% ]
+[ LIMITS: NONE ]
+```
+
+</td>
+</tr>
+</table>
+
+---
 
 <div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 🔴 THE DEVELOPER
+
+*Different worlds. Different versions. One mission.*
+
+</div>
+
+## 🧬 ABOUT MYSELF
+
+- 💻 Passionate about programming
+- 🌐 Exploring modern web development
+- ⚡ Building creative digital experiences
+- 🎮 Gaming and technology enthusiast
+- 🚀 Learning something new every day
+
+---
+
+## ⚔️ TECHNOLOGY ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/HTML5-FF3D00?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 </div>
 
 ---
 
-## 📊 GITHUB STATISTICS
+## 📊 GITHUB PERFORMANCE
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&theme=transparent&title_color=ff3030&icon_color=ff3030&text_color=ffffff&border_color=8b0000&hide_border=false"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=XoN-power1&show_icons=true&hide_border=true&bg_color=080B18&title_color=FF244F&icon_color=00BFFF&text_color=FFFFFF&ring_color=FF244F"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=compact&theme=transparent&title_color=ff3030&text_color=ffffff&border_color=8b0000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XoN-power1&layout=compact&hide_border=true&bg_color=080B18&title_color=FF244F&text_color=FFFFFF"/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&theme=dark&ring=ff3030&fire=ff3030&currStreakLabel=ff3030&border=8b0000"/>
+<br/><br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=XoN-power1&hide_border=true&background=080B18&ring=FF244F&fire=00BFFF&currStreakLabel=FF244F&sideLabels=FFFFFF&dates=999999"/>
+
+</div>
+
+---
+
+## 🕸️ CONTRIBUTION UNIVERSE
+
+<div align="center">
+
+<img width="95%" src="https://ghchart.rshah.org/ff244f/XoN-power1"/>
 
 </div>
 
@@ -59,18 +110,28 @@ Motto: Never stop learning.
 
 ## 🚀 MY PROJECTS
 
-Check out my repositories:
+<div align="center">
 
-[![Repositories](https://img.shields.io/badge/EXPLORE-MY_PROJECTS-red?style=for-the-badge&logo=github)](https://github.com/XoN-power1?tab=repositories)
+<a href="https://github.com/XoN-power1?tab=repositories">
+
+<img src="https://img.shields.io/badge/ACCESS-MY%20PROJECTS-DC143C?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
 
 ---
 
+## 🌌 MY PHILOSOPHY
+
 <div align="center">
 
-### 🔥 THE FUTURE IS BUILT WITH CODE.
+### "I DON'T FOLLOW THE FUTURE. I BUILD IT."
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001D50,50:7A0019,100:050510&height=100&section=footer&text=END%20OF%20TRANSMISSION&fontColor=FFFFFF&fontSize=22&animation=fadeIn"/>
 
 **XoN-power1 © 2026**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:050505&height=100&section=footer" width="100%"/>
 
 </div>
