@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profil+ko%27rishlar&color=8957e5&style=for-the-badge" alt="views" />
+<img src="https://komarev.com/ghpvc/?username=Qodirxon&label=Profil+ko%27rishlar&color=8957e5&style=for-the-badge" alt="views" />
 <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&color=00b4d8&label=Kuzatuvchilar" alt="followers" />
 <img src="https://img.shields.io/github/stars/USERNAME?style=for-the-badge&logo=github&color=ffb703&label=Yulduzlar" alt="stars" />
 <img src="https://img.shields.io/badge/O'zbekiston-%F0%9F%87%BA%F0%9F%87%BF-1eb53a?style=for-the-badge" alt="uz" />
@@ -72,12 +72,12 @@
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Qodirxon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qodirxon&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://streak-stats.demolab.com/?user=Qodirxon&theme=tokyonight&hide_border=true&border_radius=10" />
 
 </div>
 
@@ -145,7 +145,7 @@
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"img/>
 
 </div>
 
